@@ -5,7 +5,7 @@
 - Docker, Node.js, MongoDB, MongoExpress, Amazon ECR, Nexus, DigitalOcean, Linux
 
 ## Job 1: Use Docker for local development
-### Job description:
+#### Job description:
 
 - Create Dockerfile for Nodejs application and build Docker image
 - Run Nodejs application in Docker container and connect to
